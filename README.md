@@ -238,6 +238,8 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
 
     [Zebra Designer 3でプリンタ内蔵の日本語フォントを利用する方法](https://github.com/shimauma-giken/Zebra-Printer-Add-Japanese-Font-to-Windows-Driver-to-Utilize-in-Zebra-Designer)
 
+</br>
+</br>
 
 ### 5-1. Let's Play 1 - 基本
 
@@ -253,6 +255,9 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
 |保管期限|テキスト・固定| YYYY-MM-DD HH:MM:DD|
 |品目|テキスト・固定| 品目名とJANコード|
 |企業ロゴ|画像| |
+
+</br>
+</br>
 
 
 ### 5-1. Let's Play 2 - 応用
@@ -283,7 +288,7 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
 
 <img width="500" src="./images/database-01.png">
 
-### 5-1. Let's Play 3 - 基本
+### 6-1. Let's Play 3 - 基本
 
 下記データを棚札として印刷するサンプルを作成しよう。
 
@@ -294,6 +299,10 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
 | 寅嶋社     | 骨付き豆腐バーグ         | 600      | 648        | 123456789013     |
 | ZBR社      | ラード、カロリーハーフ   | 700      | 756        | 123456789014     |
 
+[サンプル:エクセル](./programs/DB連動-RFID-Excel.xlsx) </br>
+[サンプル:アクセス](./programs/DB連動-棚札-Access.accdb) </br>
+
+</br>
 #### ラベルイメージサンプル
  
 <img width="500" src="./images/play-02.png">
