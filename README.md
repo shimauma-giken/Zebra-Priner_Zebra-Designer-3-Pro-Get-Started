@@ -175,7 +175,7 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
     <tbody>
         <tr>
         <td>
-        <img width="420" src="./images/ZD-driver-set-04.png">
+        <img width="420" src="./images/ZD-driver-set-01.png">
         </td>
         <td>
         <img width="420" src="./images/ZD-driver-set-02.png">
