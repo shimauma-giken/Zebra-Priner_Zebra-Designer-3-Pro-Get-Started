@@ -77,13 +77,13 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
 <table border="1" cellspacing="0" cellpadding="8" style="text-align: center; width: 100%;">
   <thead>
     <tr>
-      <th width="420">
+      <th width="500">
       1. プリンタを選択
       </th>
-      <th width="420">
+      <th width="500">
       2. ページの選択
       </th>
-      <th width="420">
+      <th width="500">
       3. ラベルレイアウトの選択
       </th>
     </tr>
