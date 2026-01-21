@@ -37,7 +37,7 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
 
 </br>
 
-1. 下記手順に従いv10以外のドライバを削除する
+1. 下記手順に従いv10以外のドライバを削除する   
     [ZPLプリンタをv10のドライバで自動認識させる方法（v5ドライバを削除する方法）](https://github.com/shimauma-giken/Zebra-Printer_Erase-Zebra-Designer-3-v5-Driver-from-Laptop)
         
 
