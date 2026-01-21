@@ -54,7 +54,7 @@ Zebra社が提供するラベル作成ソフトウェア ZebraDesigner Pro 3 に
 
 </br>
 
-1. Zebra Deigner 3 Proをダウンロードする。
+1. Zebra Deigner 3 Proをダウンロードする。   
    https://www.zebra.com/jp/ja/support-downloads/software/printer-software/zebra-designer-3-downloads.html
 
 </br>
